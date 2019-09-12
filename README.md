@@ -1,1 +1,3 @@
-# Multit-rningen-180829
+# Multitärningen-180829
+
+Projekt i preparandkurs programmering, Python
